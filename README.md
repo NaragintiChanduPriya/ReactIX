@@ -14,7 +14,8 @@ This project is a single-page React application featuring a navigation bar and s
 
 #Image:
 ![Screenshot 2024-06-19 072814](https://github.com/NaragintiChanduPriya/ReactIX/assets/103315311/92ea10ec-db2b-4321-8058-d0aa78c7df20)
-![Screenshot 2024-06-19 072902](https://github.com/NaragintiChanduPriya/ReactIX/assets/103315311/a5e5df6a-251b-4df9-83f6-8cb0e407c285)
+![Screenshot 2024-06-19 072902](https://github.com/NaragintiChanduPriya/ReactIX/assets/103315311/7656cdfd-9fe3-44b5-a3a3-29336666796a)
+
 
 
 ## Installation
