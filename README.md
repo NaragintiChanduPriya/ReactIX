@@ -9,7 +9,7 @@ This project is a single-page application (SPA) built with React, utilizing Vite
 - **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
 - **Responsive Navbar**: A navigation bar that adapts to various screen sizes and provides smooth scrolling to sections.
 - **Single Page Layout**: All content is available on one page for a seamless user experience.
-##Image:
+## Image:
 ![Screenshot 2024-06-19 072814](https://github.com/NaragintiChanduPriya/ReactIX/assets/103315311/92ea10ec-db2b-4321-8058-d0aa78c7df20)
 ![Screenshot 2024-06-19 072902](https://github.com/NaragintiChanduPriya/ReactIX/assets/103315311/7656cdfd-9fe3-44b5-a3a3-29336666796a)
 ## Installation
